@@ -12,7 +12,7 @@ Examine gender discrimination in the rental housing market and determine if mone
 * Divided into two groups: Male and Female applicants.
 * Used fictitious profiles to send SMS inquiries to landlords.
 * Four treatments tested: baseline (name only), monetary incentive, educational information, and both monetary incentive and educational information.
-#### Data Collection:
+### Data Collection:
 * Applications sent from May to July 2022.
 * Focused on rental properties in Kolkata.
 * Collected responses through SMS, WhatsApp, and phone calls.
@@ -29,10 +29,13 @@ Examine gender discrimination in the rental housing market and determine if mone
 **Callback Rates:**
 * No significant association between applicant gender and callback likelihood.
 * Females received a higher mean response rate than males.
+
 **Gender Bias:**
 * No significant preference for same-gender applicants by landlords.
+
 **Impact of Incentives:**
 * Monetary incentives and educational information marginally reduced the gender gap in callbacks, though not statistically significant.
+
 ### Conclusion:
 The study provides insights into gender-based discrimination in Kolkata's rental housing market and the potential of incentives to influence landlord responses. Despite higher callback frequencies for females, the overall effect of gender on receiving callbacks was not significant, indicating complex dynamics in landlord decision-making.
 
